@@ -79,7 +79,7 @@
         Lower {
             bindings = <
 &kp GRAVE  &kp NUMBER_1      &kp NUMBER_2      &kp NUMBER_3              &kp NUMBER_4      &kp N5        &kp NUMBER_6  &kp N7                 &kp N8         &kp N9            &kp N0                &kp DEL
-&mo 5      &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp RA(NON_US_BACKSLASH)  &kp LS(NUMBER_2)  &kp LS(N5)    &kp LS(N7)    &kp LS(N9)             &kp LS(N8)     &kp LS(NUMBER_6)  &kp LS(N0)            &lt 5 SINGLE_QUOTE
+&mo 4      &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp RA(NON_US_BACKSLASH)  &kp LS(NUMBER_2)  &kp LS(N5)    &kp LS(N7)    &kp LS(N9)             &kp LS(N8)     &kp LS(NUMBER_6)  &kp LS(N0)            &lt 4 SINGLE_QUOTE
 &mo 3      &kp RA(NUMBER_1)  &kp SQT           &kp RA(NUMBER_3)          &kp RA(NUMBER_2)  &Exclamaci    &Interrogaci  &kp RA(RIGHT_BRACKET)  &kp RA(CLEAR)  &kp NON_US_HASH   &kp RA(SINGLE_QUOTE)  &mo 3
                                                &kp LGUI                  &mo 5             &kp SPACE     &kp ENTER     &mo 5                  &kp RGUI
             >;
