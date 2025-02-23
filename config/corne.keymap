@@ -57,7 +57,7 @@
             bindings = <
 &kp ESC          &kp W  &kp Q  &kp P     &kp T  &kp SINGLE_QUOTE  &kp J      &kp Y  &kp I      &kp G    &kp SEMICOLON  &Dele
 &mt LCMD TAB     &kp F  &kp S  &kp N     &kp R  &kp V             &kp H      &kp A  &kp E      &kp O    &kp U          &kp ENTER
-&mt LSHFT GRAVE  &kp X  &kp D  &kp C     &kp L  &kp B             &kp Z      &kp M  &kp COMMA  &kp DOT  &kp K          &mt RSHFT MINUS
+&mt LSHFT GRAVE  &kp X  &kp D  &kp C     &kp L  &kp B             &kp Z      &kp M  &kp COMMA  &kp DOT  &kp K          &mt RSHFT SLASH
                                &kp LGUI  &mo 2  &kp SPACE         &kp ENTER  &mo 2  &kp RALT
             >;
         };
